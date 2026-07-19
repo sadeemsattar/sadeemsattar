@@ -27,30 +27,14 @@ Deeper write-ups on my **[portfolio →](https://sadeemsattar.github.io)**
 
 ### Toolbox
 
-![Python](https://img.shields.io/badge/Python-1a1815?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1815?style=flat-square&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1a1815?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-1a1815?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-1a1815?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1a1815?style=flat-square&logo=langchain&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-1a1815?style=flat-square&logo=amazonaws&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-1a1815?style=flat-square&logo=googlecloud&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-1a1815?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1815?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1a1815?style=flat-square&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-1a1815?style=flat-square&logo=react&logoColor=white)
+**Agents & LLMs** &nbsp;·&nbsp; `LangGraph` `MCP` `A2A` `LangChain` `CrewAI` `RAG`
 
-### GitHub stats
+**ML & Cloud AI** &nbsp;·&nbsp; `Amazon Bedrock` `Vertex AI` `MLflow` `Airflow` `NLP` `PEFT / Q-LoRA`
 
-<!-- Cards themed to match the portfolio palette. Note: these count PUBLIC
-     activity — enable "Include private contributions" in your GitHub profile
-     settings for a fuller picture, since most work is in private/org repos. -->
-![Sadeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadeemsattar&show_icons=true&hide_border=true&title_color=c8451f&text_color=1a1815&icon_color=1f5c4d&bg_color=f6f4ef)
+**Backend** &nbsp;·&nbsp; `FastAPI` `Django` `Node.js` `LiveKit` `Python` `JavaScript`
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeemsattar&layout=compact&hide_border=true&title_color=c8451f&text_color=1a1815&bg_color=f6f4ef)
+**Data & Frontend** &nbsp;·&nbsp; `PostgreSQL` `MongoDB` `MilvusDB` `OpenSearch` `React` `Docker`
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1815?style=flat-square&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/sadeem-sattar-aa11651a0)
-[![Medium](https://img.shields.io/badge/Medium-1a1815?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sadeem1030sattar)
-[![Email](https://img.shields.io/badge/Email-1a1815?style=flat-square&logo=gmail&logoColor=white)](mailto:sadeem1030sattar@gmail.com)
+**[LinkedIn](https://pk.linkedin.com/in/sadeem-sattar-aa11651a0)** &nbsp;·&nbsp; **[Medium](https://medium.com/@sadeem1030sattar)** &nbsp;·&nbsp; **[Email](mailto:sadeem1030sattar@gmail.com)** &nbsp;·&nbsp; **[Portfolio](https://sadeemsattar.github.io)**
