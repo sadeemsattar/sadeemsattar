@@ -35,6 +35,10 @@ Deeper write-ups on my **[portfolio →](https://sadeemsattar.github.io)**
 
 **Data & Frontend** &nbsp;·&nbsp; `PostgreSQL` `MongoDB` `MilvusDB` `OpenSearch` `React` `Docker`
 
+### Work activity ([@sadeem-sattar](https://github.com/sadeem-sattar))
+
+![Work contributions](https://ghchart.rshah.org/sadeem-sattar)
+
 ### Connect
 
 **[LinkedIn](https://pk.linkedin.com/in/sadeem-sattar-aa11651a0)** &nbsp;·&nbsp; **[Medium](https://medium.com/@sadeem1030sattar)** &nbsp;·&nbsp; **[Email](mailto:sadeem1030sattar@gmail.com)** &nbsp;·&nbsp; **[Portfolio](https://sadeemsattar.github.io)**
