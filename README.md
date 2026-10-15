@@ -1,13 +1,5 @@
 # Hi, I'm Sadeem Sattar 👋
 
-**Staff Engineer, AI Systems** at DisruptLab, Karachi.
-
-🔗 **[Portfolio →](https://sadeemsattar.github.io)** &nbsp;·&nbsp; 📍 Karachi, Pakistan &nbsp;·&nbsp; 🏢 DisruptLab
-
----
-
-### About me
-
 I have a Bachelor's in Software Engineering from FAST NUCES (2019–2023), with six
 semesters on the Dean's List, a CTF hackathon win, and a runner-up finish in ethical
 hacking. I've been building software professionally for 3+ years, starting with
