@@ -4,6 +4,15 @@
 product-memory engines, a Venture Operating System, and LLM platforms that turn
 scattered signals into intelligence.
 
+For 3+ years at **DisruptLab** I've taken AI from R&D to production across the stack:
+multi-agent chatbots that replaced **70% of traditional customer support**, a real-time
+**voice interview agent** on a LiveKit pipeline, LLM-driven **workflow automation** built
+on LangGraph, and **product analytics AI** that maps user journeys and predicts churn
+with XGBoost. I care about the unglamorous parts that make AI systems real — memory
+that compounds instead of resetting, retrieval over messy data at the scale of millions
+of products, and fine-tuning (PEFT / Q-LoRA) when prompting isn't enough. Software
+engineer by training (BS, FAST NUCES), systems thinker by habit.
+
 🔗 **[Portfolio →](https://sadeemsattar.github.io)** &nbsp;·&nbsp; 📍 Karachi, Pakistan &nbsp;·&nbsp; 🏢 DisruptLab
 
 ---
