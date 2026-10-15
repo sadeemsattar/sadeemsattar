@@ -1,35 +1,30 @@
 # Hi, I'm Sadeem Sattar 👋
 
-**Staff Engineer, AI Systems** — I build agentic AI systems that survive real users:
-product-memory engines, a Venture Operating System, and LLM platforms that turn
-scattered signals into intelligence.
-
-For 3+ years at **DisruptLab** I've taken AI from R&D to production across the stack:
-multi-agent chatbots that replaced **70% of traditional customer support**, a real-time
-**voice interview agent** on a LiveKit pipeline, LLM-driven **workflow automation** built
-on LangGraph, and **product analytics AI** that maps user journeys and predicts churn
-with XGBoost. I care about the unglamorous parts that make AI systems real — memory
-that compounds instead of resetting, retrieval over messy data at the scale of millions
-of products, and fine-tuning (PEFT / Q-LoRA) when prompting isn't enough. Software
-engineer by training (BS, FAST NUCES), systems thinker by habit.
+**Staff Engineer, AI Systems** at DisruptLab, Karachi.
 
 🔗 **[Portfolio →](https://sadeemsattar.github.io)** &nbsp;·&nbsp; 📍 Karachi, Pakistan &nbsp;·&nbsp; 🏢 DisruptLab
 
 ---
 
-### At a glance
+### About me
 
-- 💼 **3+ years** shipping AI/ML systems in production — from trainee to senior engineer at **DisruptLab** (and Savyour, its product arm)
-- 🎓 **BS Software Engineering, FAST NUCES** (2019 – 2023) — GPA 3.56/4.0, **6× Dean's List**
-- 🏆 CTF Hackathon **Winner** &nbsp;·&nbsp; Ethical Hacking **Runner-Up**
+I have a Bachelor's in Software Engineering from FAST NUCES (2019–2023), with six
+semesters on the Dean's List, a CTF hackathon win, and a runner-up finish in ethical
+hacking. I've been building software professionally for 3+ years, starting with
+micro-ERP services at CEE-Solutions, then moving through Savyour into DisruptLab,
+where I went from classic ML to LLM systems.
 
-### What I actually do
+Over that time I've shipped product clustering for millions of items (SmartSort), an
+HR screening tool using OCR and RAG (Talent Hunter), a multi-agent chatbot on Qwen2
+that took over 70% of customer support queries (Savvy), fine-tuned models with
+PEFT/Q-LoRA, a real-time voice interview agent on a LiveKit pipeline with Deepgram STT
+and OpenAI TTS (Vettio), and an LLM workflow engine on LangGraph that automates tasks
+across Gmail, Slack, and Jira (Wellows).
 
-- 📈 **AI-powered product analytics** (GrowthAnts) — automated journey mapping, cohort analysis, and tree-based segmentation to find drivers of user drop-off; **XGBoost + deep-learning churn prediction** on billing and product data; **BERTopic** modeling over Intercom/Typeform/Zendesk feedback to surface product friction
-- 🎙️ **Real-time voice agents** (Vettio) — a live interview agent on a **LiveKit** pipeline: Deepgram STT, OpenAI TTS, custom LLM, VAD and turn detection, conducting context-aware candidate interviews inside live meetings
-- 🤖 **Agentic workflow automation** (Wellows R&D) — a directed-graph workflow engine with LLM intent recognition, built on **LangGraph** and integrated with Gmail, Slack, Jira, and more
-- 💬 **Multi-agent chat at scale** (Savvy) — Qwen2-based agent chatbot that replaced **70% of traditional customer support**, fine-tuned with **PEFT / Q-LoRA**, plus a two-tower recommendation system on user and product embeddings
-- 🗂️ **ML on messy data** (SmartSort, CrawlerAI, Talent Hunter) — clustering **millions of products** from names + images (agglomerative clustering, MobileNet, Instructor-large), LLM-driven web scraping through LangChain, and HR CV screening with a **90% success rate**
+Currently I work on Synapse, DisruptLab's venture operating system that brings product
+intelligence and GTM execution into one platform. My work there centers on product
+analytics: journey mapping, cohort analysis, churn prediction with XGBoost, and topic
+modeling over support feedback to find what's hurting users.
 
 ### Selected work
 
@@ -46,7 +41,7 @@ Deeper write-ups on my **[portfolio →](https://sadeemsattar.github.io)**
 
 | Role | Where | When |
 | --- | --- | --- |
-| Senior Software Engineer | DisruptLab — GrowthAnts | Jul 2025 – present |
+| Senior Software Engineer | DisruptLab — Synapse | Jul 2025 – present |
 | Software Engineer | DisruptLab — Vettio, Wellows R&D | Dec 2024 – Jul 2025 |
 | Software Engineer | Savyour (DisruptLab) — Savvy Chatbot | Jul 2024 – Nov 2024 |
 | Associate Software Engineer | Savyour (DisruptLab) — SmartSort, CrawlerAI | Sep 2023 – Jul 2024 |
