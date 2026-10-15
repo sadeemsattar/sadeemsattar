@@ -18,28 +18,6 @@ intelligence and GTM execution into one platform. My work there centers on produ
 analytics: journey mapping, cohort analysis, churn prediction with XGBoost, and topic
 modeling over support feedback to find what's hurting users.
 
-### Selected work
-
-| Project | What it is |
-| --- | --- |
-| **Product Memory Engine** | 5-layer active-memory substrate served over FastAPI + MCP |
-| **AlphaMem / AlphaMemX** | Self-learning organizational brain on a knowledge graph |
-| **Synapse — Venture OS** | Product intelligence + GTM execution in one system |
-| **Vettio Interview Agent** | Real-time voice interviewer on a LiveKit pipeline |
-
-Deeper write-ups on my **[portfolio →](https://sadeemsattar.github.io)**
-
-### Experience
-
-| Role | Where | When |
-| --- | --- | --- |
-| Senior Software Engineer | DisruptLab — Synapse | Jul 2025 – present |
-| Software Engineer | DisruptLab — Vettio, Wellows R&D | Dec 2024 – Jul 2025 |
-| Software Engineer | Savyour (DisruptLab) — Savvy Chatbot | Jul 2024 – Nov 2024 |
-| Associate Software Engineer | Savyour (DisruptLab) — SmartSort, CrawlerAI | Sep 2023 – Jul 2024 |
-| Tech Camp | Savyour (DisruptLab) — Talent Hunter | Jun 2023 – Sep 2023 |
-| Associate SE + Trainee | CEE-Solutions — micro-ERP, Nginx load balancing | Jan 2023 – Apr 2023 |
-
 ### Toolbox
 
 **Agents & LLMs** &nbsp;·&nbsp; `LangGraph` `MCP` `A2A` `LangChain` `CrewAI` `RAG`
